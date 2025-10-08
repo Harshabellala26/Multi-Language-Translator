@@ -16,8 +16,6 @@ Select source and target languages.
 
 Click “Translate” to view the result.
 
-Live Demo
-Check out the project live here.
 
 Contributing
 Contributions are welcome! Please open issues or submit pull requests for desired features or bug fixes.
