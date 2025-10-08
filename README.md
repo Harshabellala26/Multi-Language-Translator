@@ -1,4 +1,5 @@
-Multi Language Translator
+MULTI LANGUAGE TRANSLATOR
+
 A simple web-based application to translate text between multiple languages. Built using HTML, JavaScript, and popular translation APIs.
 
 Features:
